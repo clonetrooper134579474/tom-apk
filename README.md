@@ -1,5 +1,3 @@
-builds 5 and 6 (1.2 and 1.2.1) are lost :-(
-
 
 Change log:
 V1.0: App released on the android market.
